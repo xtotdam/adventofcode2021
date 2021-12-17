@@ -19,7 +19,7 @@ https://adventofcode.com/2021
 14. :star: :star2:
 15.
 16.
-17.
+17. :star: :star2:
 18.
 19.
 20.
