@@ -13,7 +13,7 @@ https://adventofcode.com/2021
 8. :star: :star2:
 9. :star: :star2:
 10. :star: :star2:
-11.
+11. :star: :star2:
 12.
 13.
 14. :star: :star2:
